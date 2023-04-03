@@ -1,0 +1,9 @@
+{
+  "name": "test_sy_bot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
